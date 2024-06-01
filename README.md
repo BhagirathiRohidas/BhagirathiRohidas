@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm a Frontend Developer having 2 years of experience working<br>with React.js, Node.js at Marlabs LLC.
+Hey! I'm a Frontend React.Js Developer with 3 years of experience in web development. I specialize in JavaScript, React.JS, and Next.js. I am keen to learn new things and love to build some cool stuff.
 
 
 ## 🌐 Socials:
